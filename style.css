@@ -118,10 +118,7 @@ aside{
   right: 430px;
   bottom: 500px;
 }
-h1::after , h1::before{  
-content: url("https://drive.google.com/uc?export=view&id=1KSmkTBE2A4gxi6ulEcJp1N0Zf6wVWKA9"); 
-width: 10px;
-heigth: 10px;
+
    }
    .address::before{
     
